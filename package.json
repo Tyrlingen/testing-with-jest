@@ -1,0 +1,22 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "A jest + npm lab session\r During this lab we learn about git, jest and npm",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyrlingen/testing-with-jest.git"
+  },
+  "author": "Sebastian Tyrling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tyrlingen/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/Tyrlingen/testing-with-jest#readme"
+}
